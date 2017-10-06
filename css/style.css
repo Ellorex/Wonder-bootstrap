@@ -1,0 +1,32 @@
+#homepage {
+  background-image: url("../img/bg-body.jpg");
+  margin-op: 20px; }
+  #homepage header ul {
+    background-color: #404040; }
+    #homepage header ul li {
+      color: white;
+      display: inline-block;
+      padding: 10px;
+      margin-right: 10px; }
+  #homepage aside {
+    margin-top: 50px; }
+    #homepage aside h1 {
+      text-transform: uppercase; }
+  #homepage aside h2 {
+    background-color: #404040;
+    margin-top: 65px;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    color: white; }
+    #homepage aside h2 .orange {
+      color: #ff5c33; }
+  #homepage aside .dinausor {
+    background-color: white;
+    text-align: center; }
+  #homepage footer {
+    width: 100%;
+    background-color: #404040; }
+
+/*# sourceMappingURL=style.css.map */
